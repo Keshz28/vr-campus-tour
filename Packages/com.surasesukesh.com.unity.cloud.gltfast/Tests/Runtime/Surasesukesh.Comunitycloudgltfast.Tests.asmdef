@@ -1,0 +1,11 @@
+{
+    "name": "Surasesukesh.Comunitycloudgltfast.Tests",
+    "references": [
+        "Surasesukesh.Comunitycloudgltfast"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Surasesukesh.Comunitycloudgltfast.Editor",
+    "references": [
+      "Surasesukesh.Comunitycloudgltfast"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

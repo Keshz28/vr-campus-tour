@@ -1,0 +1,14 @@
+{
+    "name": "Surasesukesh.Comunitycloudgltfast.Editor.Tests",
+    "references": [
+        "Surasesukesh.Comunitycloudgltfast.Editor",
+        "Surasesukesh.Comunitycloudgltfast"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
