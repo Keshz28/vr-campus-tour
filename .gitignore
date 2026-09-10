@@ -33,3 +33,5 @@ sysinfo.txt
 .DS_Store
 *.slnx
 desktop.ini
+Assets/Video/*.mp4
+Assets/Video/*.mp4.meta
